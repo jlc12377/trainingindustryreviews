@@ -1,0 +1,6 @@
+# Unfinished site. Every HTML page sends meta robots "noindex, follow".
+# Remove those meta tags when the site is finished and should be indexed.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.trainingindustryreviews.com/sitemap.xml
